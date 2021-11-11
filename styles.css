@@ -3,3 +3,15 @@
     margin: 0;
     padding: 0;
 }
+
+.president-component {
+    background-color: rgb(97, 14, 14);
+}
+
+.president-component img {
+    width: 200px;
+}
+
+.president-component-name-and-years {
+    background-color: burlywood;
+}
