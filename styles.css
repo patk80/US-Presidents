@@ -10,17 +10,27 @@ body {
 
 .president-component {
     background-color: rgb(97, 14, 14);
+    width: 20vw;
+    text-align: center;
 }
 
 .president-component img {
-    width: 200px;
+    width: 50%;
+    border-radius: 10px;
+    margin: 20px 0;
 }
 
 .president-component-name-and-years {
     background-color: burlywood;
+    padding: 10px 0;
 }
 
 .president-component-expand-portion {
     background-color: #ffffff;
     color: #000000;
+    padding: 10px 0;
+}
+
+.president-component-expand-portion-hidden {
+    display: none;
 }
