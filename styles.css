@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: cornflowerblue;
+    background-color: #6495ed;
     margin: 20px;
 }
 
@@ -14,7 +14,7 @@ h1 {
 }
 
 .president-component {
-    background-color: rgb(97, 14, 14);
+    background-color: #610e0e;
     width: 25vw;
     text-align: center;
 }
@@ -32,7 +32,7 @@ h1 {
 }
 
 .president-component-name-and-years {
-    background-color: burlywood;
+    background-color: #deb887;
     padding: 10px 0;
 }
 
