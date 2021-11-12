@@ -6,11 +6,16 @@
 
 body {
     background-color: cornflowerblue;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
 }
 
 .president-component {
     background-color: rgb(97, 14, 14);
-    width: 20vw;
+    width: 25vw;
     text-align: center;
 }
 
