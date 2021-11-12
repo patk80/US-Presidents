@@ -17,6 +17,7 @@ h1 {
     background-color: #610e0e;
     width: 25vw;
     text-align: center;
+    border-radius: 20px;
 }
 
 .president--component-number {
@@ -40,6 +41,8 @@ h1 {
     background-color: #ffffff;
     color: #000000;
     padding: 10px 0;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
 }
 
 .expand-icon {
