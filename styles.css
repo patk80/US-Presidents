@@ -34,3 +34,8 @@ body {
 .president-component-expand-portion-hidden-text {
     display: none;
 }
+
+#expanded-text {
+    text-align: left;
+    padding: 20px;
+}
